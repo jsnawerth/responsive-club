@@ -320,7 +320,7 @@ footer li{
         top: 300px;
         right: 5%;
         width: 90%;
-        height: 50%;
+        height: 300px;
         font-size: 3rem;
     }
     .item-description a{
@@ -375,6 +375,6 @@ footer li{
         top: 20%;
         right: 5%;
         width: 90%;
-        height: 70%;
+        height: 420px;
     }
   }
